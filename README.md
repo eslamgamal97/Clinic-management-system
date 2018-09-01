@@ -1,5 +1,6 @@
 # Clinic-management-system
 Clinic management system project.
+
 The project operations :
 1. helps doctors to record patients information.
 2. helps doctors to reserve a reservation slot for a patient.
