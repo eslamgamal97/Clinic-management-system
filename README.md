@@ -1,4 +1,4 @@
-# Clinic-management-system
+# Clinic-Management-System
 Clinic management system project.
 
 The project operations :
