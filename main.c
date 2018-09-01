@@ -1,4 +1,9 @@
-/* Clinic Management System Project */
+/* 
+    Clinic Management System Project 
+    Written by eslam gamal elsayed
+    Email: eslamgamal.201441@gmail.com 
+    
+    */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -327,7 +332,7 @@ void view_patient(){
     }
 }
 
-// View today’s reservations
+// View todayÂ’s reservations
 void view_reservations(){
     struct node *temp;
     int slot;
